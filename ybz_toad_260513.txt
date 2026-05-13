@@ -4,7 +4,7 @@
 *& Date    : 31.12.2017
 *& Version : 4.8.0
 *& Required: Table YBT_TOAD
-*& Description: ABAP SQL Editor
+*& Description: ABAP SQL Editor and Execute
 ***&---------------------------------------------------------------------*
 ***  3번째 구분자
 ***    WHEN '='.    ls_line-tdformat = '='.  " 구분선 (Horizontal line)
